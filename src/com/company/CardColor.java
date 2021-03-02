@@ -5,5 +5,6 @@ public enum CardColor {
         RED,
         GREEN,
         GOLD,
-        Wonder
+        WONDER,
+        NULL
 }
